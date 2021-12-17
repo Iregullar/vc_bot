@@ -1,8 +1,4 @@
-<h1 align="centre">🎶 Müzik Bot 🎶</h1>
 
-Ana Grup = [@Exercitus](https://t.me/ExercitusChat)
-
-Hazırlayan = [@ExercitusSahip](https://t.me/ExercitusSahip)
 
 <h3 align="centre"> Heroku </h4>
 
